@@ -16,7 +16,7 @@
 
 |                                              Project                                              |               Contest                |       Tech Stack       | Award | Year |
 | :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
-| [나만을 위한 카드 추천 챗봇 서비스, EZ:card](https://github.com/EZ-card/EZ-Card) | 캠퍼스SW아카데미 TABA 3기 |       Springboot        | 장려상  | 2023 |
+| [나만을 위한 카드 추천 챗봇 서비스, EZ:card](https://github.com/EZ-card/EZ-Card) | 캠퍼스SW아카데미 TABA 3기 |       Springboot, MySQL, AWS        | 장려상  | 2023 |
        
 
 <br><br>
