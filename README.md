@@ -4,7 +4,6 @@
 - 단국대학교 소프트웨어학과 재학중 (2020.03 ~ ing)
 - 캠퍼스SW아카데미 TABA(Tmax AI/Bigdata Academy) 3기 수료 (2023.07 ~ 2023.09)
 - 캠퍼스SW아카데미 TABA(Tmax AI/Bigdata Academy) 3기 프로젝트 장려상(3위) (2023.08)
-- 안랩 2024년 상반기 현장실습형 인턴 (2024.01 ~ ing)
 <br>
 
 ## Tech Stack
