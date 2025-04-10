@@ -1,5 +1,9 @@
 # Welcome to Minji's Github!
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{ghi512}"/>
+</a>
+
 ## Profile
 - 단국대학교 소프트웨어학과 재학중 (2020.03 ~ ing)
 - 캠퍼스SW아카데미 TABA(Tmax AI/Bigdata Academy) 3기 수료 (2023.07 ~ 2023.09)
