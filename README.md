@@ -21,8 +21,11 @@
 
 ## Projects
 
-|                                              Project                                              |               Contest                |       Tech Stack       | Award | Year |
-| :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
-| [나만을 위한 카드 추천 챗봇 서비스, EZ:card](https://github.com/EZ-card/EZ-Card) | 캠퍼스SW아카데미 TABA 3기 |       Springboot, MySQL, AWS        | 장려상  | 2023 |
+| Project | Tech Stack | Year | Repo|
+|--|--|--|--|
+|💳 나만을 위한 카드 추천 챗봇 서비스, EZ:card | React, Springboot | 2023.08| [Full](https://github.com/EZ-card/EZ-Card)|
+|☕️ 카공 맞춤형 카페 지도 플랫폼, TagCafe | React, Springboot | 2025.01 - 2025.04 | [FE](https://github.com/Team-TagCafe/TagCafe-FE) / [BE](https://github.com/Team-TagCafe/TagCafe-BE)|
+|🌿 당신의 반려 식물과 함께 하는 힐링 공간, Planty | Flutter, Springboot | 2025.03 - 진행 중 | [FE](https://github.com/Team-BIoTy/Planty-FE) / [BE](https://github.com/Team-BIoTy/Planty-BE)|
+
        
 <br>
